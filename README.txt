@@ -2,6 +2,8 @@ Hey, this is my faux virtual machine written in python. It's my first real compl
 I tried my best to make as much memory as possible stored in the main.py file alone, but I had to had savedata.txt and savedprogram.txt so you wont lose your saved data
 after doing endall to finish what you are doing.
 
+To install, simply download the code.
+
 COMMANDS
 
 Manual
