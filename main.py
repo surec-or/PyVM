@@ -184,7 +184,7 @@ def runslots():                                    # gamesl: "Game Slots": Play 
         print("Spinning...")
         bet *=random.randint(-1,2)
         print(f"Result: {bet}")
-        cells[20] = bet
+        cells[20] += bet
         if cells[20] <= 1:
             print("Your balance is zero! Try again.")
                     
